@@ -1,0 +1,8 @@
+node_modules
+dist
+server/data/*.db
+server/data/*.db-*
+.env
+.DS_Store
+id_ed22519
+id_ed22519.pub
